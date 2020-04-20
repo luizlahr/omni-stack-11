@@ -2,7 +2,7 @@
 BeTheHero App/ WebApp develop during RocketSeat OmniStack 11
 
 # Stack
-NodeJs
-ReactJS
-ReactNative
+- NodeJs
+- ReactJS
+- ReactNative
 
